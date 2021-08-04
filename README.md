@@ -1,5 +1,6 @@
 # Line-Follower-Bot
 An autonomous line follower robot, built using the Arduino platform
+
 Components:
 1. Arduino UNO
 2. L293D Motor Driver IC
