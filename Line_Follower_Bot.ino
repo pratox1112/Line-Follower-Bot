@@ -1,4 +1,4 @@
-//Line following bot using 2 IR sensors
+//Line follower bot using 2 IR sensors
 //Motor Connections
 //Right
 int enableR = 3;
